@@ -48,10 +48,10 @@
 
 <p>JavaScript y TypeScript para aplicaciones web · Swift para iPhone · Python para visión por cámaras y automatización · Postgres para los datos · Claude Code como copiloto de IA.</p>
 
-<p>Código abierto: <a href="https://github.com/resuelvemeesta57-design/voice-studio-to-claude-skill">voice-studio-to-claude-skill</a>, una herramienta que convierte texto en audio con voces clonadas, en local.</p>
+<p>Código abierto: <a href="https://github.com/PantherCode57/voice-studio-to-claude-skill">voice-studio-to-claude-skill</a>, una herramienta que convierte texto en audio con voces clonadas, en local.</p>
 
 <h2>Hablemos</h2>
 
 <p>Si en tu negocio hay algo que se sigue haciendo a mano, en papel o en una hoja de cálculo, cuéntamelo y te digo con sinceridad si se puede resolver con software y cómo.</p>
 
-<p><b><a href="https://github.com/resuelvemeesta57-design">Contacta conmigo en GitHub</a></b></p>
+<p><b><a href="https://github.com/PantherCode57">Contacta conmigo en GitHub</a></b></p>
