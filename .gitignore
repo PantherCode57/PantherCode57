@@ -1,0 +1,4 @@
+preview*.html
+.claude/
+.taste-skill/
+__pycache__/
